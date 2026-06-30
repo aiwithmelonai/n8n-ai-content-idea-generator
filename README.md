@@ -36,7 +36,38 @@ Built by [MELON AI](https://aiwithmelonai.com)
 
 ## Example Output
 
-Here are 5 YouTube video ideas about AI automation for beginners:\n\n1. **"Automate Your Email in 10 Minutes with AI"** - A step-by-step tutorial showing beginners how to use tools like Zapier and ChatGPT to automatically sort, respond to, and organize emails.\n\n2. **"5 Boring Tasks You Can Automate Today with Zero Coding"** - A practical walkthrough demonstrating how non-technical users can eliminate repetitive daily tasks using free AI tools.\n\n3. **"I Automated My Social Media for a Week - Here's What Happened"** - A personal experiment video showing beginners exactly how to set up AI tools to schedule, write, and post content automatically.\n\n4. **"The Beginner's Guide to Make.com: Build Your First AI Workflow"** - A friendly introduction to Make.com that teaches complete beginners how to connect apps and create their first automated workflow in under 30 minutes.\n\n5. **"ChatGPT + Google Sheets = The Ultimate Automation Hack"** - A beginner-friendly tutorial showing how to combine ChatGPT with Google Sheets to automatically generate reports, summaries, and data analysis.
+## Results
+
+**Test Input:**
+- Topic: "n8n automation tutorials for small business owners" 
+  (or your actual test topic, if different)
+
+**Claude's Generated Ideas:**
+
+Here are 5 YouTube video ideas about AI automation for beginners:
+
+1. "Automate Your Email in 10 Minutes with AI" — A step-by-step 
+   tutorial showing beginners how to use tools like Zapier and 
+   ChatGPT to automatically sort, respond to, and organize emails.
+
+2. "5 Boring Tasks You Can Automate Today with Zero Coding" — A 
+   practical walkthrough demonstrating how non-technical users can 
+   eliminate repetitive daily tasks using free AI tools.
+
+3. "I Automated My Social Media for a Week - Here's What Happened" 
+   — A personal experiment video showing beginners exactly how to 
+   set up AI tools to schedule, write, and post content 
+   automatically.
+
+4. "The Beginner's Guide to Make.com: Build Your First AI Workflow" 
+   — A friendly introduction to Make.com that teaches complete 
+   beginners how to connect apps and create their first automated 
+   workflow in under 30 minutes.
+
+5. "ChatGPT + Google Sheets = The Ultimate Automation Hack" — A 
+   beginner-friendly tutorial showing how to combine ChatGPT with 
+   Google Sheets to automatically generate reports, summaries, and 
+   data analysis.
 
 ---
 
